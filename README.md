@@ -1,6 +1,6 @@
 Hey, I'm Bryan Kiragu
 
-Full-Stack Developer | AI & IoT Systems Engineer | Distributed Systems Enthusiast 💡
+Full-Stack Developer | AI & IoT Systems Engineer | Distributed Systems Enthusiast 
 Building intelligent, scalable systems that solve real-world problems across Africa and beyond.
 
  About Me
@@ -54,7 +54,7 @@ Linux & Cloud Deployment
   Milk Quality AI System	Python + IoT + ML               	AI model for predicting milk quality using sensor data pipelines.
 
   GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chomba212&github=tokyonight" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chomba212&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chomba212&github=tokyonight" width="48%" /> </p>
  Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chomba212&layout=compact&theme=tokyonight" width="50%" /> </p>
  
