@@ -21,7 +21,7 @@ Creating end-to-end platforms (web + mobile + backend) that are production-orien
 
 When I’m not coding, I’m exploring system design patterns, AI architectures, and real-world infrastructure problems.
 
-🧩 Tech Stack
+  Tech Stack
  
   Languages & Frontend
 JavaScript / TypeScript
@@ -73,7 +73,6 @@ GitHub Activity Graph
  Email: briankchomba@gmail.com
  contact :0115343446
  GitHub: github.com/chomba212/
-LinkedIn:https://www.linkedin.com/in/brian-kiragu-616a56262/
-🌐 Portfolio: coming soon
-🐙 GitHub: github.com/your-username
-💼 LinkedIn: y
+ LinkedIn:https://www.linkedin.com/in/brian-kiragu-616a56262/
+ Portfolio: coming soon
+
