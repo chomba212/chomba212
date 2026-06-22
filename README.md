@@ -56,7 +56,7 @@ Linux & Cloud Deployment
   GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chomba212&github=tokyonight" width="48%" /> </p>
  Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="50%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chomba212&layout=compact&theme=tokyonight" width="50%" /> </p>
  
  2026 Goals
 
@@ -67,7 +67,7 @@ Linux & Cloud Deployment
 
 
 GitHub Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chomba212&github=tokyo-night" /> </p>
  Let’s Connect
 
  Email: briankchomba@gmail.com
@@ -76,4 +76,4 @@ GitHub Activity Graph
 LinkedIn:https://www.linkedin.com/in/brian-kiragu-616a56262/
 🌐 Portfolio: coming soon
 🐙 GitHub: github.com/your-username
-💼 LinkedIn: your-linkedin
+💼 LinkedIn: y
